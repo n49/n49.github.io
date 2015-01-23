@@ -1,27 +1,15 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Welcome to the N49 Developer Portal
 ---
-{% include JB/setup %}
+##What is N49?
+N49 is a leading local search and review management company. Our network of directories are a key part of the local eco system in Canada, the United States, and the United Kingdom. In addition to our directories we have a leading application for helping business owners acquire reviews from their customers and distribute them around the web, and to their own website.
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+##API's
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+N49 has two primary API's, the review feed API and the N49-Data API. The review feed API is used for the 
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
+#### N49 Data API 
     
 ## Sample Posts
 
